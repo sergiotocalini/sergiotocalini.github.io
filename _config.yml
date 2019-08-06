@@ -35,11 +35,11 @@ permalink: /:categories/:title
 
 # if you don't have any of social below, comment the line
 email: sergiotocalini@gmail.com
-#facebook: sergiotocalini
-#twitter: sergiotocalini
+# facebook: sergiotocalini
+# twitter: sergiotocalini
 # google: mygoogle
 instagram: sergiotocalini
-pinterest: sergiotocalini
+# pinterest: sergiotocalini
 linkedin: sergiotocalinijoerg
 # youtube: myyoutube
 spotify: sergiotocalini
@@ -67,8 +67,8 @@ authors:
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+paginate: 10
+paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
