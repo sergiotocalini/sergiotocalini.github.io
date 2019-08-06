@@ -19,7 +19,7 @@ resume-url: https://linkedin.com/in/sergiotocalinijoerg
 url: https://sergiotocalini.github.io
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+permalink: /:categories/:title/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
@@ -30,7 +30,7 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: sergiotocalini # enter this from your disqus account
   categories: [blog] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
