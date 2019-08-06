@@ -1,9 +1,9 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: ":ramen: Monitoring"
 layout: post
 date: 2016-01-23 22:10
-tag: jekyll
-image: "{{ site.url }}/assets/img/monitor.png"
+tag: monitoring
+image: "/assets/img/monitor.png"
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
