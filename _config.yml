@@ -34,12 +34,13 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: sergiotocalini
-twitter: sergiotocalini
+email: sergiotocalini@gmail.com
+#facebook: sergiotocalini
+#twitter: sergiotocalini
 # google: mygoogle
 instagram: sergiotocalini
-# pinterest: mypinterest
-# linkedin: mylinkedin
+pinterest: sergiotocalini
+linkedin: sergiotocalinijoerg
 # youtube: myyoutube
 spotify: sergiotocalini
 github: sergiotocalini
@@ -51,7 +52,6 @@ reddit: sergiotocalini
 # medium: mymedium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: sergiotocalini@gmail.com
 
 authors:
     sergiotocalini:
