@@ -3,7 +3,7 @@ title: ":ramen: Indigo, minimalist jekyll theme"
 layout: post
 date: 2016-01-23 22:10
 tag: jekyll
-image: {{ site.url }}/assets/img/monitor.png
+image: "{{ site.url }}/assets/img/monitor.png"
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -27,3 +27,4 @@ What has inside?
 - No JS
 - [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
 
+---
