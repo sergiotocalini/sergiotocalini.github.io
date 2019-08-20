@@ -1,22 +1,22 @@
 ---
-title: "AZ-400: Microsoft Azure DevOps Solutions (Preparation)"
 layout: post
+category: blog
+author: sergiotocalini
 date: 2019-08-27 00:00
+title: "AZ-400: Microsoft Azure DevOps Solutions (Preparation)"
+description: "AZ-400: Microsoft Azure DevOps Solutions (Preparation)"
 image: /assets/images/markdown.jpg
 headerImage: false
+star: false
 tag:
 - cloud
 - certification
 - azure
-star: true
-category: blog
-author: sergiotocalini
-description: "AZ-400: Microsoft Azure DevOps Solutions (Preparation)"
 ---
 
-Work in progress!!
+[Microsoft Learning - Exam AZ-400](https://www.microsoft.com/en-us/learning/exam-az-400.aspx)
 
-https://www.microsoft.com/en-us/learning/exam-az-400.aspx
+Work in progress!!
 
 ## Basic formatting
 

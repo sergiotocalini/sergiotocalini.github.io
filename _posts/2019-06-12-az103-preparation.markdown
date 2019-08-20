@@ -1,19 +1,20 @@
 ---
-title: "AZ-103: Microsoft Azure Administrator (Preparation)"
 layout: post
+category: blog
+author: sergiotocalini
 date: 2019-06-12 00:00
+title: "AZ-103: Microsoft Azure Administrator (Preparation)"
+description: "AZ-103: Microsoft Azure Administrator (Preparation)"
 image: /assets/images/markdown.jpg
 headerImage: false
+star: false
 tag:
 - cloud
 - certification
 - azure
-category: blog
-author: sergiotocalini
-description: "AZ-103: Microsoft Azure Administrator (Preparation)"
 ---
 
-https://www.microsoft.com/en-us/learning/exam-az-103.aspx
+[Microsoft Learning - Exam AZ-103](https://www.microsoft.com/en-us/learning/exam-az-103.aspx)
 
 Work in progress!!
 
