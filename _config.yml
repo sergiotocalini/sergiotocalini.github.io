@@ -99,6 +99,7 @@ plugins:
   - jekyll-admin
   - jekyll-feed
   - jekyll-gist
+  - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
   - jemoji
