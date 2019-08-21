@@ -1,10 +1,7 @@
-<div style="display: block; margin: 0 auto">
-<div>
-![GitHub](https://img.shields.io/github/license/sergiotocalini/sergiotocalini.github.io)
-</div>
-<div>
-![Website](https://img.shields.io/website-up-down-green-red/https/sergiotocalini.github.io.svg)
-</div>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/license/sergiotocalini/sergiotocalini.github.io">
+  <img src="https://img.shields.io/website/https/sergiotocalini.github.io.svg">
+</p>
 
 # sergiotocalini.github.io
+Personal Website
