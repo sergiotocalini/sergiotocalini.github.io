@@ -3,8 +3,8 @@ layout: post
 category: blog
 author: sergiotocalini
 date: 2019-08-27 00:00
-title: "AZ-400: Microsoft Azure DevOps Solutions (Preparation)"
-description: "AZ-400: Microsoft Azure DevOps Solutions (Preparation)"
+title: "AZ-400: Microsoft Azure DevOps Solutions"
+description: "AZ-400: Microsoft Azure DevOps Solutions"
 image: /assets/images/markdown.jpg
 headerImage: false
 star: false

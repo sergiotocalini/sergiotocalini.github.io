@@ -2,9 +2,9 @@
 layout: post
 category: blog
 author: sergiotocalini
-date: 2019-06-12 00:00
-title: "AZ-103: Microsoft Azure Administrator (Preparation)"
-description: "AZ-103: Microsoft Azure Administrator (Preparation)"
+date: 2019-06-12 12:00
+title: "AZ-103: Microsoft Azure Administrator"
+description: "AZ-103: Microsoft Azure Administrator"
 image: /assets/images/markdown.jpg
 headerImage: false
 star: false
