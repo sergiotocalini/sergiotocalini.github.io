@@ -1,6 +1,6 @@
 # main text of home
 name: Sergio Tocalini
-bio: Software Engineer / DevOps Engineer / SRE
+bio: "Software Engineer / DevOps Engineer / Full-Stack Developer / SRE"
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -96,6 +96,11 @@ show-author: true
 
 # do you want some animations?
 animation: true
+
+# collections:
+#   certifications:
+#     output: true
+#     permalink: /:collection/:slug
 
 plugins:
   - jekyll-admin
