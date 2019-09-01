@@ -1,0 +1,23 @@
+title: "IAM (Identity and Access Management)"
+layout: post
+date: 2017-01-01 22:00
+tags:
+  - iam
+  - sso
+  - oauth
+  - centralized-authentication
+image: "/assets/img/monitor.png"
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "This is a project under development."
+category: project
+author: sergiotocalini
+externalLink: false
+---
+
+SSO & Centralized Authentication
+
+
+
+Mavapa
