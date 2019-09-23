@@ -5,18 +5,14 @@ author: sergiotocalini
 date: 2019-08-27 00:00
 title: "AZ-400: Microsoft Azure DevOps Solutions"
 description: "AZ-400: Microsoft Azure DevOps Solutions"
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/extras/microsoft/azure/badges/exam-az400.png
+headerImage: true
 star: false
 tag:
 - cloud
 - certification
 - azure
 ---
-
-[Microsoft Learning - Exam AZ-400](https://www.microsoft.com/en-us/learning/exam-az-400.aspx)
-
-Work in progress!!
 
 ## Basic formatting
 
