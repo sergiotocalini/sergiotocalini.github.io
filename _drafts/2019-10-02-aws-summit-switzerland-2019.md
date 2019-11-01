@@ -14,7 +14,6 @@ tags:
 - cloud
 ---
 
-WIP
-
+# Gallery
 
 {% google_photos https://photos.app.goo.gl/NFEthUX641cKFiHs6 0 %}

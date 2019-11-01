@@ -1,14 +1,17 @@
 ---
 layout: post
+category: project
 author: sergiotocalini
+date: 2019-04-15 09:00
+title: "Interactive Brokers"
+description: "Interactive Brokers"
+image: /assets/extras/google/gcp/badges/google-certified-associate-cloud-engineer.png
+headerImage: true
 star: false
-categories:
-- project
 tags:
 - ibrokers
-- stocks
 - fintech
-- finance
+- devops
 ---
 
 WIP

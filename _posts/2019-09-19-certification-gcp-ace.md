@@ -12,6 +12,7 @@ tag:
 - cloud
 - certification
 - gcp
+- sysadmin
 ---
 
 # About

@@ -5,13 +5,14 @@ author: sergiotocalini
 date: 2019-06-12 12:00
 title: "AZ-103: Microsoft Azure Administrator"
 description: "AZ-103: Microsoft Azure Administrator"
-image: /assets/extras/microsoft/azure/badges/exam-az103.png
+image: /assets/extras/microsoft/azure/badges/microsoft-certification-exam.png
 headerImage: true
 star: false
 tag:
 - cloud
 - certification
 - azure
+- sysadmin
 ---
 
 ## Summary:
