@@ -1,3 +1,14 @@
+- name: "Microsoft Certified: Azure Security Engineer Associate (2)"
+  provider: "Microsoft"
+  id: "H358-6513"
+  exams:
+    - "AZ-500"
+  date:
+    issue: 14.02.2020
+    expire: 14.02.2022
+  url: "https://www.youracclaim.com/badges/305fc452-db8a-4793-97b2-d30bd4f27b96/personal_in_profile"
+  badge: "{{ site.url }}/assets/extras/microsoft/azure/badges/microsoft-certified-azure-security-engineer-associate.png"
+
 - name: "Microsoft Certified: Azure Security Engineer Associate"
   provider: "Microsoft"
   id: "H358-6513"
