@@ -1,14 +1,3 @@
-- name: "Microsoft Certified: Azure Security Engineer Associate (2)"
-  provider: "Microsoft"
-  id: "H358-6513"
-  exams:
-    - "AZ-500"
-  date:
-    issue: 14.02.2020
-    expire: 14.02.2022
-  url: "https://www.youracclaim.com/badges/305fc452-db8a-4793-97b2-d30bd4f27b96/personal_in_profile"
-  badge: "{{ site.url }}/assets/extras/microsoft/azure/badges/microsoft-certified-azure-security-engineer-associate.png"
-
 - name: "Microsoft Certified: Azure Security Engineer Associate"
   provider: "Microsoft"
   id: "H358-6513"
@@ -18,7 +7,7 @@
     issue: 14.02.2020
     expire: 14.02.2022
   url: "https://www.youracclaim.com/badges/305fc452-db8a-4793-97b2-d30bd4f27b96/personal_in_profile"
-  badge: "{{ site.url }}/assets/extras/microsoft/azure/badges/microsoft-certified-azure-security-engineer-associate.png"
+  badge: "/assets/extras/microsoft/azure/badges/microsoft-certified-azure-security-engineer-associate.png"
 
 - name: "Microsoft Certified: Azure Solutions Architect Expert"
   provider: "Microsoft"
@@ -30,7 +19,7 @@
     issue: 12.12.2019
     expire: 12.12.2021
   url: "https://www.youracclaim.com/badges/b9f58d0c-e336-42a2-a58c-0abc31b153e5/personal_in_profile"
-  badge: "{{ site.url }}/assets/extras/microsoft/azure/badges/microsoft-certified-azure-solutions-architect-expert.png"
+  badge: "/assets/extras/microsoft/azure/badges/microsoft-certified-azure-solutions-architect-expert.png"
 
 - name: "Google Cloud Certified Professional Cloud Architect"
   provider: "Google"
@@ -41,7 +30,7 @@
     issue: 14.10.2019
     expire: 14.10.2021
   url: "https://www.credential.net/ypumx28o"
-  badge: "{{ site.url }}/assets/extras/google/gcp/badges/google-certified-professional-cloud-architect.png"
+  badge: "/assets/extras/google/gcp/badges/google-certified-professional-cloud-architect.png"
 
 - name: "Google Cloud Certified Associate Cloud Engineer"
   provider: "Google"
@@ -52,7 +41,7 @@
     issue: 14.09.2019
     expire: 14.09.2021
   url: "https://www.credential.net/48aldh6r"
-  badge: "{{ site.url }}/assets/extras/google/gcp/badges/google-certified-associate-cloud-engineer.png"
+  badge: "/assets/extras/google/gcp/badges/google-certified-associate-cloud-engineer.png"
 
 - name: "Microsoft Certified: Azure DevOps Engineer Expert"
   provider: "Microsoft"
@@ -63,7 +52,7 @@
     issue: 14.08.2019
     expire: 14.08.2021
   url: "https://www.youracclaim.com/badges/985f782c-0819-4a6e-9e2e-66812a552a05/personal_in_profile"
-  badge: "{{ site.url }}/assets/extras/microsoft/azure/badges/microsoft-certified-azure-devops-engineer-expert.png"
+  badge: "/assets/extras/microsoft/azure/badges/microsoft-certified-azure-devops-engineer-expert.png"
 
 - name: "Microsoft Certified: Azure Administrator Associate"
   provider: "Microsoft"
@@ -74,7 +63,7 @@
     issue: 14.06.2019
     expire: 14.06.2021
   url: "https://www.youracclaim.com/badges/372b9774-1a69-433e-8421-4e8b32e96234/personal_in_profile"
-  badge: "{{ site.url }}/assets/extras/microsoft/azure/badges/microsoft-certified-azure-administrator-associate.png"
+  badge: "/assets/extras/microsoft/azure/badges/microsoft-certified-azure-administrator-associate.png"
 
 - name: "Red Hat Certified System Administrator (RHCSA)"
   provider: "Red Hat"
@@ -84,4 +73,4 @@
   date:
     issue: 14.10.2012
   url: "https://www.redhat.com/rhtapps/services/verify?certId=120-178-959"
-  badge: "{{ site.url }}/assets/extras/redhat/badges/redhat-certified-system-administrator.png"
+  badge: "/assets/extras/redhat/badges/redhat-certified-system-administrator.png"
