@@ -14,8 +14,6 @@ tags:
 - devops
 ---
 
-{% google_photos https://photos.app.goo.gl/3QqPc9wjtTsxVski7 0 %}
-
 # Introduction
 
 <p style='text-align: justify;'>
