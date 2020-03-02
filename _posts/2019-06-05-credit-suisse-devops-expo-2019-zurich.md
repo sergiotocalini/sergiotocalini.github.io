@@ -108,4 +108,4 @@ tags:
 
 ---
 
-[banner]: assets/events/CS-devops_expo_2019-Zurich.png
+[banner]: /assets/events/CS-devops_expo_2019-Zurich.png
