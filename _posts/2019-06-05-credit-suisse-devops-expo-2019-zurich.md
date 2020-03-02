@@ -8,7 +8,7 @@ description: "Credit Suisse DevOps Expo 2019 - Zurich"
 image: /assets/img/events.png
 headerImage: true
 star: false
-tags:
+tag:
 - events
 - credit suisse
 - devops
@@ -106,6 +106,9 @@ tags:
 	to be automated.
 </p>
 
----
 
+[Gallery][gallery]
+
+---
 [banner]: /assets/events/CS-devops_expo_2019-Zurich.png
+[gallery]: https://photos.app.goo.gl/3QqPc9wjtTsxVski7
