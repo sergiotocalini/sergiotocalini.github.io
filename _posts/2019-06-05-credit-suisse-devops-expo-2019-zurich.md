@@ -14,8 +14,9 @@ tags:
 - devops
 ---
 
-# Introduction
+![Credit Suisse - DevOps Expo 2019 (Zurich, Switzerland)][banner]
 
+# Introduction
 <p style='text-align: justify;'>
 	On June 5th 2019 took place the DevOps Expo at Credit Suisse's offices in
 	Zurich. The aim of this event was to cover different aspects of DevOps 
@@ -25,16 +26,15 @@ tags:
 <p style='text-align: justify;'>
 	It was a pleasure to be part of this expo and have the opportunity to share
 	my experiences over the years as a DevOps Architect. I've been working in several
-	project transforming business models and creating application cycles. My presentation
+	projects transforming business models and creating application cycles. My presentation
 	was named <em><strong>"Merging Security and Enterprise DevOps: DevSecOps"</strong></em>
 	and it was focused on how we should include Security on an early stage in the
 	Software Development Life Cycle (SDLC).
 </p>
 
 # What do we get implementing DevOps methodologies?
-
 <p style='text-align: justify;'>
-	Basically, we can reduce time and accelerate processes, at the same time,
+	Basically, we can reduce time and accelerate processes. At the same time,
 	improve the performance and the profits. It helps to increase the frequency
 	of releases so you can innovate and improve your product or service faster. This
 	means, the quicker you can release new features and fix bugs, the faster you can
@@ -42,7 +42,6 @@ tags:
 </p>
 
 # What are the challenges?
-
 <p style='text-align: justify;'>
 	Nowadays, IT plays an important role in every organisation by increasing the
 	business benefits. Through IT we can provide innovation and agility, to achieve
@@ -54,9 +53,8 @@ tags:
 </p>
 
 # The Cloudy Shift (The GBU)
-
 <p style='text-align: justify;'>
-	We consider the Cloud migration and DevOps methodologies should be aligned in
+	We consider that the Cloud migration and DevOps methodologies should be aligned in
 	order to generate possibilities for automation. This new paradigm empowers
 	developers and increases the collaboration between Development and Operations
 	bringing <strong>GOOD</strong> sinergy.
@@ -75,25 +73,24 @@ tags:
 </p>
 
 # How do we achieve a DevSecOps environment?
-
 <p style='text-align: justify;'>
 	Bringing DevOps and Security teams together. It is more about an organizational
 	change, meaning that everyone (also Managers and Heads) should include this in
 	their agenda.
 </p>
 <p style='text-align: justify;'>
-	There has to be a mindshift in the whole DevOps team to make Security as
+	There should be a mindshift in the whole DevOps team to make Security as
 	priority and to understand that everyone is responsible for this. Both teams
 	should share knowledge to prevent reinventing the wheel all the time.
 </p>
 <p style='text-align: justify;'>
-	When we are looking at the Software Development Lifecycle (SDLC) what all
-	of this leads is to basically a shift (of security) to the left. Instead of
-	Security being added very late into the cycle we want security as early as 
-	possible so ideally also even in the plan and code stages
+	When we look at the Software Development Lifecycle (SDLC) this leads to a
+	shift (of security) to the left. Instead of Security being added very late
+	into the cycle we want security as early as possible so ideally also even
+	in the plan and code stages
 </p>
 <p style='text-align: justify;'>
-	Integrating Security automation is an important aspect also manual steps
+	Integrating Security automation is an important aspect, also manual steps
 	should be eliminated as much as possible to prevent human error and make
 	the process more agile.
 </p>
@@ -109,3 +106,6 @@ tags:
 	to be automated.
 </p>
 
+---
+
+[banner]: assets/events/CS-devops_expo_2019-Zurich.png
