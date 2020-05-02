@@ -1,3 +1,14 @@
+- name: "Microsoft Certified: Azure IoT Developer Specialty"
+  provider: "Microsoft"
+  id: "H412-7753"
+  exams:
+    - "AZ-220"
+  date:
+    issue: 02.05.2020
+    expire: 02.05.2022
+  url: "https://www.youracclaim.com/badges/e79bd7d5-472f-4cab-9f93-eb0ba600947b/personal_in_profile"
+  badge: "/assets/extras/microsoft/azure/badges/microsoft-certified-azure-iot-developer-specialty.png"
+
 - name: "Microsoft Certified: Azure Security Engineer Associate"
   provider: "Microsoft"
   id: "H358-6513"
