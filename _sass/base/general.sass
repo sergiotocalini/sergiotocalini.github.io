@@ -114,6 +114,12 @@ pre
   background: #fff
   border: 1px solid $epsilon
   border-radius: 2px
+
+.wrapper-normal
+  max-width: 40%
+
+.wrapper-large
+  max-width: 70%
   
 .wrapper-normal,
 .wrapper-large
@@ -123,15 +129,11 @@ pre
   
   @media #{$mobile}
     width: 88%
+    max-width: 100%
     
   @media #{$tablet}
     width: 88%
-
-.wrapper-normal
-  max-width: 40%
-
-.wrapper-large
-  max-width: 70%
+    max-width: 100%
 
 table
   border: none
