@@ -5,7 +5,7 @@ author: sergiotocalini
 date: 2019-09-19 19:00
 title: "GCP: Associate Cloud Engineer"
 description: "Google Cloud Certified: Associate Cloud Engineer"
-image: /assets/extras/google/gcp/badges/google-certified-associate-cloud-engineer.png
+image: /assets/img/exams.png
 headerImage: true
 star: false
 tag:
@@ -14,6 +14,14 @@ tag:
 - gcp
 - sysadmin
 ---
+{:.center}
+![Google Cloud Certified: Associate Cloud Engineer][gcp-ace-badge]
+
+# Table of Contents
+1. [Introduction](#introduction)
+2. [Cloudreach](#cloudreach)
+3. [Sessions](#sessions)
+4. [Takeaways](#takeaways)
 
 # About
 <p style="text-align: justify">
@@ -53,12 +61,23 @@ preparation for the certification.
 
 
 # References
-- [Google Cloud - Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)
-- [Google Cloud Locations](https://cloud.google.com/about/locations/)
-- [Google Cloud Documentation](https://cloud.google.com/docs/)
-- [Google Cloud SDK Documentation](https://cloud.google.com/sdk/docs/)
-- [Google Cloud Billing Documentation](https://cloud.google.com/billing/docs/)
+- [Google Cloud - Associate Cloud Engineer][link01]
+- [Google Cloud Locations][link02]
+- [Google Cloud Documentation][link03]
+- [Google Cloud SDK Documentation][link04]
+- [Google Cloud Billing Documentation][link05]
 - [Google Codelabs](https://codelabs.developers.google.com/?cat=Cloud)
 - [Google Cloud Platform Pricing Calculator](https://cloud.google.com/products/calculator/)
 - [Google Cloud Monitoring Documentation](https://cloud.google.com/monitoring/docs/)
 - [Google Doc - Associate Cloud Engineer - Study Notes](https://docs.google.com/document/d/1u6pXBiGMYj7ZLBN21x6jap11rG6gWk7n210hNnUzrkI)
+
+{:.center}
+![Google Cloud Platform][banner]
+---
+[banner]: /assets/extras/google/gcp/google-cloud-platform-banner-00.jpg
+[gcp-ace-badge]: /assets/extras/google/gcp/badges/google-certified-associate-cloud-engineer.png
+[link01]: https://cloud.google.com/certification/cloud-engineer
+[link02]: https://cloud.google.com/about/locations/
+[link03]: https://cloud.google.com/docs/
+[link04]: https://cloud.google.com/sdk/docs/
+[link05]: https://cloud.google.com/billing/docs/

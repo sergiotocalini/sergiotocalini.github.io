@@ -5,7 +5,7 @@ author: sergiotocalini
 date: 2019-10-28 09:00
 title: "GCP: Professional Cloud Architect"
 description: "Google Cloud Certified: Professional Cloud Architect"
-image: /assets/extras/google/gcp/badges/google-certified-professional-cloud-architect.png
+image: /assets/img/exams.png
 headerImage: true
 star: false
 tag:
@@ -14,6 +14,15 @@ tag:
 - gcp
 - architect
 ---
+{:.center}
+![Google Cloud Certified: Professional Cloud Architect][gcp-pca-badge]
+
+# Table of Contents
+1. [About](#about)
+2. [Experience](#experience)
+3. [Preparation](#preparation)
+4. [Courses](#courses)
+5. [References](#references)
 
 # About
 <p style="text-align: justify">
@@ -45,3 +54,9 @@ exam and to cover every aspect of the certification.
 # References
 - [Google Cloud - Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect)
 - [Google Doc - Associate Cloud Engineer - Study Notes](https://docs.google.com/document/d/1u6pXBiGMYj7ZLBN21x6jap11rG6gWk7n210hNnUzrkI)
+
+{:.center}
+![Google Cloud Platform][banner]
+---
+[banner]: /assets/extras/google/gcp/google-cloud-platform-banner-00.jpg
+[gcp-pca-badge]: /assets/extras/google/gcp/badges/google-certified-professional-cloud-architect.png

@@ -13,6 +13,7 @@ tag:
 - aws
 - cloud
 ---
+{:.center}
 [![AWS Summit - Switzerland 2019 (Baden, Switzerland)][banner]][gallery]
 
 # Table of Contents
