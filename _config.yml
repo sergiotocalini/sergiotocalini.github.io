@@ -16,13 +16,13 @@ picture: assets/img/profile.jpg
 # resume-external: true
 # resume-url: https://linkedin.com/in/sergiotocalinijoerg
 
-url: https://sergiotocalini.github.io
+# url: https://sergiotocalini.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:categories/:title
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-145089178-1'
+# analytics-google: 'UA-145089178-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -57,8 +57,8 @@ github: sergiotocalini
 
 authors:
     sergiotocalini:
-        name: Sergio Tocalini
-        bio: Software Engineer / DevOps Engineer / SRE
+        name: "Sergio Tocalini"
+        bio: "Software Engineer / DevOps Engineer / Full-Stack Developer / SRE"
         external-image: false
         picture: assets/img/profile.jpg
         twitter: sergiotocalini
