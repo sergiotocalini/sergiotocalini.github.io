@@ -17,7 +17,6 @@ tag:
 - devsecops
 - logs
 ---
-
 # Table of Contents
 1. [Introduction](#introduction)
 2. [Minimum Requirements](#minimum-requirements)
@@ -28,6 +27,7 @@ tag:
 
 {:.center}
 [![Centralized Logging][diagram]][diagram]
+---
 
 # Introduction
 

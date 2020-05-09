@@ -15,6 +15,17 @@ tag:
 - devops
 - devsecops
 ---
+# Table of Contents
+1. [Introduction](#introduction)
+2. [Minimum Requirements](#minimum-requirements)
+3. [Deployment](#deployment)
+4. [Monitoring](#monitoring)
+5. [Conclusion](#conclusion)
+6. [References](#references)
+
+{:.center}
+[![Centralized Logging][diagram]][diagram]
+---
 
 # Services
 

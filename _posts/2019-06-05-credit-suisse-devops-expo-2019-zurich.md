@@ -15,9 +15,6 @@ tag:
 - devops
 - devsecops
 ---
-{:.center}
-![Credit Suisse - DevOps Expo 2019 (Zurich, Switzerland)][banner]
-
 # Table of Contents
 1. [Introduction](#introduction)
 2. [What do we get implementing DevOps methodologies?](#what-do-we-get-implementing-devops-methodologies)
@@ -25,6 +22,10 @@ tag:
 4. [The Cloudy Shift (The GBU)](#the-cloudy-shift-the-gbu)
 5. [How do we achieve a DevSecOps environment?](#how-do-we-achieve-a-devsecops-environment)
 6. [Lesson Learned](#lesson-learned)
+
+{:.center}
+![Credit Suisse - DevOps Expo 2019 (Zurich, Switzerland)][banner]
+---
 
 # Introduction
 <p style='text-align: justify;'>
