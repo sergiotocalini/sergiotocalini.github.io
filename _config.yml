@@ -22,7 +22,7 @@ picture: assets/img/profile.jpg
 permalink: /:categories/:title
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-145089178-1'
+analytics-google: 'UA-145089178-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -106,7 +106,6 @@ plugins:
   - jekyll-admin
   - jekyll-feed
   - jekyll-gist
-  - jekyll-google-photos
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
