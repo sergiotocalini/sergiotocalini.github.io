@@ -63,6 +63,9 @@ better the situation and the solutions that every individual or company is
 looking for. What I also learned from this experience is that sharing experiences
 also empowers your creativity and makes you start planning your	next project.
 
+<iframe src="https://www.youtube.com/embed/SfSIK9gltwY" frameborder="0" allowfullscreen
+	width="100%" height="450px">
+</iframe>
 ---
 [banner]: /assets/events/AWS-summit_switzerland_2019-Baden.jpg
 [gallery]: //photos.app.goo.gl/NFEthUX641cKFiHs6
