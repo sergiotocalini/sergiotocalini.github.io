@@ -24,7 +24,7 @@ tag:
 6. [References](#references)
 
 {:.center}
-[![Centralized Logging][diagram]][diagram]
+[![Centralized Logging][diagram]][diagram]{:target="_blank"}
 ---
 
 # Services

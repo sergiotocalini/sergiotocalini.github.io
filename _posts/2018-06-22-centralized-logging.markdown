@@ -25,7 +25,7 @@ tag:
 5. [References](#references)
 
 {:.center}
-[![Centralized Logging][diagram]][diagram]
+[![Centralized Logging][diagram]][diagram]{:target="_blank"}
 ---
 
 # Introduction
