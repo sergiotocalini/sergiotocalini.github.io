@@ -20,7 +20,7 @@ tag:
 4. [Takeaways](#takeaways)
 
 {:.center}
-[![AWS Summit - Switzerland 2019 (Baden, Switzerland)][banner]][gallery]
+[![AWS Summit - Switzerland 2019 (Baden, Switzerland)][banner]][gallery]{:target="_blank"}
 ---
 
 # Introduction
@@ -38,7 +38,6 @@ community to share their doubt and achievements on their journey to the cloud.
 As an experienced company on the field, we were present on this event to show our
 support to AWS as partners, and to support the Swiss community on their business transformation
 using cloud and to show them how they can adopt the latest technologies on their daily basis.
-</p>
 
 # Sessions
 
