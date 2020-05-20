@@ -12,6 +12,8 @@ tag:
 - events
 - google
 - cloud
+- gcp
+- anthos
 ---
 # Table of Contents
 1. [Introduction](#introduction)
