@@ -7,6 +7,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sergiotocalini" rel="nofollow">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"
+		 style="max-width:100%;" alt="Buy Me A Coffee">
+  </a>
+</p>
+
 # sergiotocalini.github.io
 
 Personal Website
