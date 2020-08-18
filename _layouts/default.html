@@ -20,7 +20,8 @@ layout: compress
     {% seo %}
     {% include favicon.html %}
     
-    <link href="//fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet" media="all">
+    <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.css" rel="stylesheet">
     
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}/feed.xml"/>
@@ -34,15 +35,34 @@ layout: compress
       {% if page.tag %}
       <div class="post">
       {% else %}
-        {% if showHeader != true %}
+      {% if showHeader != true %}
       <div class="page {{ page.title | downcase }}">
-	{% else %}
+      {% else %}
       <div class="{{ page.title | downcase }}">
-	{% endif %}
       {% endif %}
-	{{ content }}
+      {% endif %}
+        {{ content }}
       </div>
     </div>
+    <button onclick="topFunction()" id="btn-top" title="Go to top">
+      <i class="fas fa-arrow-circle-up"></i>
+    </button>
     {% include icons.html %}
+    <script src="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/js/all.js" defer></script>
+    <script>
+      var mybutton = document.getElementById("btn-top");
+      window.onscroll = function() {scrollFunction()};
+      function scrollFunction() {
+	  if (document.body.scrollTop > 250 || document.documentElement.scrollTop > 250) {
+	      mybutton.style.display = "block";
+	  } else {
+	      mybutton.style.display = "none";
+	  }
+      };
+      function topFunction() {
+	  document.body.scrollTop = 0;
+	  document.documentElement.scrollTop = 0;
+      };
+    </script>
   </body>
 </html>

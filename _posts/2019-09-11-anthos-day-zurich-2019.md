@@ -56,9 +56,9 @@ that it tries to solve, like Application Deployment and Service management.
 # Takeaways
 
 {:.justified}
-I was pleased to be invited to this event as part of an experienced company that
-helps business on their journey to the Cloud, and also as a specialist on Google
-Cloud Platform.
+I was pleased to be invited to this event as part of Cloudreach, an experienced
+company that helps business on their journey to the Cloud, and also as a
+specialist on Google Cloud Platform.
 
 {:.justified}
 On this event what I could takeaway after this event is the intention that Google

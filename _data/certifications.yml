@@ -1,3 +1,14 @@
+- name: "CKA: Certified Kubernetes Administrator"
+  provider: "The Linux Foundation"
+  id: "LF-cxexrp9qo2"
+  exams:
+    - "CKA"
+  date:
+    issue: 16.08.2020
+    expire: 16.08.2023
+  url: "https://www.youracclaim.com/badges/21dd458a-c431-4218-8fe7-045af0b6bb4b/personal_in_profile"
+  badge: "/assets/extras/linuxfoundation/kubernetes/badges/certified-kubernetes-administrator.png"
+
 - name: "Microsoft Certified: Azure IoT Developer Specialty"
   provider: "Microsoft"
   id: "H412-7753"
