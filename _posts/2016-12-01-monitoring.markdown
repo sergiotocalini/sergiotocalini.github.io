@@ -81,34 +81,34 @@ Please take into account that as I am the owner of those projects I will try to
 keep them clean and I will be the only person who can define the roadmap of them
 but you are free to create your own fork.
 
-Service         | Extension   | Issues        |
---------------- | :---------: | :-----------: |
-ArangoDB        | [aranix]    | ![aranix](//img.shields.io/github/issues/sergiotocalini/aranix?label=%20&style=flat-square){:.single} |
-Bind            | [bindix]    | ![bindix](//img.shields.io/github/issues/sergiotocalini/bindix?label=%20&style=flat-square){:.single} | 
-Docker          | [zocker]    | ![zocker](//img.shields.io/github/issues/sergiotocalini/zocker?label=%20&style=flat-square){:.single} |
-Dovecot         | [doveix]    | ![doveix](//img.shields.io/github/issues/sergiotocalini/doveix?label=%20&style=flat-square){:.single} |
-Elasticsearch   | [elasix]    | ![elasix](//img.shields.io/github/issues/sergiotocalini/elasix?label=%20&style=flat-square){:.single} |
-GlusterFS       | [glusix]    | ![glusix](//img.shields.io/github/issues/sergiotocalini/glusix?label=%20&style=flat-square){:.single} |
-HAProxy         | [habbixy]   | ![habbixy](//img.shields.io/github/issues/sergiotocalini/habbixy?label=%20&style=flat-square){:.single}|
-IPSec           | [zipsec]    | ![zipsec](//img.shields.io/github/issues/sergiotocalini/zipsec?label=%20&style=flat-square){:.single} |
-Java Springboot | [zaring]    | ![zaring](//img.shields.io/github/issues/sergiotocalini/zaring?label=%20&style=flat-square){:.single} |
-Jenkins         | [jenkix]    | ![jenkix](//img.shields.io/github/issues/sergiotocalini/jenkix?label=%20&style=flat-square){:.single} |
-KVM             | [virbix]    | ![virbix](//img.shields.io/github/issues/sergiotocalini/virbix?label=%20&style=flat-square){:.single} |
-Keepalived      | [keepax]    | ![keepax](//img.shields.io/github/issues/sergiotocalini/keepax?label=%20&style=flat-square){:.single} |
-Logstash        | [lostix]    | ![lostix](//img.shields.io/github/issues/sergiotocalini/lostix?label=%20&style=flat-square){:.single} |
-MSSQL           | [msqlix]    | ![msqlix](//img.shields.io/github/issues/sergiotocalini/msqlix?label=%20&style=flat-square){:.single} |
-MySQL           | [mysbix]    | ![mysbix](//img.shields.io/github/issues/sergiotocalini/mysbix?label=%20&style=flat-square){:.single} |
-Nginx           | [znginx]    | ![znginx](//img.shields.io/github/issues/sergiotocalini/znginx?label=%20&style=flat-square){:.single} |
-OpenLDAP        | [zaldap]    | ![zaldap](//img.shields.io/github/issues/sergiotocalini/zaldap?label=%20&style=flat-square){:.single} |
-OpenVPN         | [zaovpn]    | ![zaovpn](//img.shields.io/github/issues/sergiotocalini/zaovpn?label=%20&style=flat-square){:.single} |
-Oracle DB       | [zabora]    | ![zabora](//img.shields.io/github/issues/sergiotocalini/zabora?label=%20&style=flat-square){:.single} |
-PostgreSQL      | [zapgix]    | ![zapgix](//img.shields.io/github/issues/sergiotocalini/zapgix?label=%20&style=flat-square){:.single} |
-Python Gunicorn | [gunbix]    | ![gunbix](//img.shields.io/github/issues/sergiotocalini/gunbix?label=%20&style=flat-square){:.single} |
-Redis           | [zedisx]    | ![zedisx](//img.shields.io/github/issues/sergiotocalini/zedisx?label=%20&style=flat-square){:.single} |
-Seafile         | [seabix]    | ![seabix](//img.shields.io/github/issues/sergiotocalini/seabix?label=%20&style=flat-square){:.single} |
-Splunk          | [spluix]    | ![spluix](//img.shields.io/github/issues/sergiotocalini/spluix?label=%20&style=flat-square){:.single} |
-UNIX / Linux    | [custix]    | ![custix](//img.shields.io/github/issues/sergiotocalini/custix?label=%20&style=flat-square){:.single} |
-Windows         | [custiw]    | ![custiw](//img.shields.io/github/issues/sergiotocalini/custiw?label=%20&style=flat-square){:.single} |
+Service / App   | Extension   |
+--------------- | :---------: |
+ArangoDB        | [aranix]    |
+Bind            | [bindix]    |
+Docker          | [zocker]    |
+Dovecot         | [doveix]    |
+Elasticsearch   | [elasix]    |
+GlusterFS       | [glusix]    |
+HAProxy         | [habbixy]   |
+IPSec           | [zipsec]    |
+Java Springboot | [zaring]    |
+Jenkins         | [jenkix]    |
+KVM             | [virbix]    |
+Keepalived      | [keepax]    |
+Logstash        | [lostix]    |
+MSSQL           | [msqlix]    |
+MySQL           | [mysbix]    |
+Nginx           | [znginx]    |
+OpenLDAP        | [zaldap]    |
+OpenVPN         | [zaovpn]    |
+Oracle DB       | [zabora]    |
+PostgreSQL      | [zapgix]    |
+Python Gunicorn | [gunbix]    |
+Redis           | [zedisx]    |
+Seafile         | [seabix]    |
+Splunk          | [spluix]    |
+UNIX / Linux    | [custix]    |
+Windows         | [custiw]    |
 
 {:.justified}
 There are some plugins that also help the monitoring system to gather information
@@ -126,8 +126,7 @@ to ensure the automation processes is able to handle them.
 {:.center}
 <div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1zrSKdgPsxItMiU-QIE0X5AmD0rAEY5W6&amp;export=download&quot;}"></div>
 <script type="text/javascript" src="https://app.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1zrSKdgPsxItMiU-QIE0X5AmD0rAEY5W6%26export%3Ddownload"></script>
-
-{:.justified}
+<script type="text/javascript" src="https://www.draw.io/js/viewer-static.min.js"></script>
 
 # How to deploy an extension?
 

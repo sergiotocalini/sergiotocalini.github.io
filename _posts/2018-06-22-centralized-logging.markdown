@@ -17,16 +17,23 @@ tag:
 - devsecops
 - logs
 ---
+{:.justified}
+{% capture admonition_message %}
+This is a live document that has work in progress content. Meaning that I will
+be updating this document with new content.
+{% endcapture %}
+{% include admonition.html icon="warning" title="Attention" message=admonition_message %}
+
 # Table of Contents
-1. [Introduction](#introduction)
-2. [Minimum Requirements](#minimum-requirements)
-3. [Monitoring](#monitoring)
-4. [Conclusion](#conclusion)
-5. [References](#references)
+{:.no_toc}
+
+1. TOC
+{:toc}
 
 {:.center}
-[![Centralized Logging][diagram]][diagram]{:target="_blank"}
----
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1JLnC7CTaZQZQiY7kWUVcMJOlBRMKSF7a&amp;export=download&quot;}"></div>
+<script type="text/javascript" src="https://viewer.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1JLnC7CTaZQZQiY7kWUVcMJOlBRMKSF7a%26export%3Ddownload"></script>
+<script type="text/javascript" src="https://www.draw.io/js/viewer-static.min.js"></script>
 
 # Introduction
 
