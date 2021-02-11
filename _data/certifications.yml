@@ -1,3 +1,14 @@
+- name: "AWS Certified DevOps Engineer – Professional"
+  provider: "Amazon Web Services (AWS)"
+  id: "5R8GZSXDBEQ1QTK2"
+  exams:
+    - "DOP-C01"
+  date:
+    issue: 09.02.2021
+    expire: 09.02.2024
+  url: "https://www.youracclaim.com/badges/4acb1652-1867-4827-a5b9-a9e09c4551d5?source=personal_website"
+  badge: "/assets/extras/amazon/aws/badges/aws-certified-devops-engineer-professional.png"
+
 - name: "AWS Certified SysOps Administrator - Associate"
   provider: "Amazon Web Services (AWS)"
   id: "VFX4J41DDFB4QNG3"
