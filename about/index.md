@@ -42,8 +42,17 @@ best professional support.
 {:.justified}
 There are some portals where you can have almost every badge you have earned on
 your profile available to share with your network and can help you also to define
-your career path: [youracclaim][youracclaim], [credential][credential], etc.
+your career path: [credly][credly], [credential][credential], etc.
 
 
-[youracclaim]: https://www.youracclaim.com/users/sergiotocalini
+[credly]: https://www.credly.com/users/sergiotocalini
 [credential]: https://googlecloudcertified.credential.net/profile/a7bd30f3134493a90e5388ff618babaf577ce422
+
+
+<img src="/assets/img/developer.gif" alt="Developer" style="width:100%"/>
+
+{:.justified}
+Please feel free to check my github profile to see the project I am currently
+working on. If you want to collaborate in one of my projects please feel free
+to open new issues on the github repositories.
+

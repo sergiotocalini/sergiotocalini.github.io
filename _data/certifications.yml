@@ -1,3 +1,14 @@
+- name: "CKS: Certified Kubernetes Security Specialist"
+  provider: "The Linux Foundation"
+  id: "LF3e2l415zae"
+  exams:
+    - "CKS"
+  date:
+    issue: 24.03.2022
+    expire: 24.03.2024
+  url: "https://www.credly.com/badges/c294328e-2266-412a-aa2f-54c805fbaba8?source=personal_website"
+  badge: "/assets/extras/linuxfoundation/kubernetes/badges/certified-kubernetes-security-specialist.png"
+
 - name: "AWS Certified DevOps Engineer – Professional"
   provider: "Amazon Web Services (AWS)"
   id: "5R8GZSXDBEQ1QTK2"
@@ -6,7 +17,7 @@
   date:
     issue: 09.02.2021
     expire: 09.02.2024
-  url: "https://www.youracclaim.com/badges/4acb1652-1867-4827-a5b9-a9e09c4551d5?source=personal_website"
+  url: "https://www.credly.com/badges/4acb1652-1867-4827-a5b9-a9e09c4551d5?source=personal_website"
   badge: "/assets/extras/amazon/aws/badges/aws-certified-devops-engineer-professional.png"
 
 - name: "AWS Certified SysOps Administrator - Associate"
@@ -17,7 +28,7 @@
   date:
     issue: 21.01.2021
     expire: 21.01.2024
-  url: "https://www.youracclaim.com/badges/7e06a0f1-1eef-444d-9c6e-6de6d3b2a3ca?source=personal_website"
+  url: "https://www.credly.com/badges/7e06a0f1-1eef-444d-9c6e-6de6d3b2a3ca?source=personal_website"
   badge: "/assets/extras/amazon/aws/badges/aws-certified-sysops-administrator-associate.png"
 
 - name: "CKA: Certified Kubernetes Administrator"
@@ -28,7 +39,7 @@
   date:
     issue: 16.08.2020
     expire: 16.08.2023
-  url: "https://www.youracclaim.com/badges/21dd458a-c431-4218-8fe7-045af0b6bb4b/personal_website"
+  url: "https://www.credly.com/badges/21dd458a-c431-4218-8fe7-045af0b6bb4b/personal_website"
   badge: "/assets/extras/linuxfoundation/kubernetes/badges/certified-kubernetes-administrator.png"
 
 - name: "Microsoft Certified: Azure IoT Developer Specialty"
@@ -39,7 +50,7 @@
   date:
     issue: 02.05.2020
     expire: 02.05.2022
-  url: "https://www.youracclaim.com/badges/e79bd7d5-472f-4cab-9f93-eb0ba600947b/personal_website"
+  url: "https://www.credly.com/badges/e79bd7d5-472f-4cab-9f93-eb0ba600947b/personal_website"
   badge: "/assets/extras/microsoft/azure/badges/microsoft-certified-azure-iot-developer-specialty.png"
 
 - name: "Microsoft Certified: Azure Security Engineer Associate"
@@ -50,7 +61,7 @@
   date:
     issue: 14.02.2020
     expire: 14.02.2022
-  url: "https://www.youracclaim.com/badges/305fc452-db8a-4793-97b2-d30bd4f27b96/personal_website"
+  url: "https://www.credly.com/badges/305fc452-db8a-4793-97b2-d30bd4f27b96/personal_website"
   badge: "/assets/extras/microsoft/azure/badges/microsoft-certified-azure-security-engineer-associate.png"
 
 - name: "Microsoft Certified: Azure Solutions Architect Expert"
@@ -62,7 +73,7 @@
   date:
     issue: 12.12.2019
     expire: 12.12.2021
-  url: "https://www.youracclaim.com/badges/b9f58d0c-e336-42a2-a58c-0abc31b153e5/personal_website"
+  url: "https://www.credly.com/badges/b9f58d0c-e336-42a2-a58c-0abc31b153e5/personal_website"
   badge: "/assets/extras/microsoft/azure/badges/microsoft-certified-azure-solutions-architect-expert.png"
 
 - name: "Google Cloud Certified Professional Cloud Architect"
@@ -95,7 +106,7 @@
   date:
     issue: 14.08.2019
     expire: 14.08.2021
-  url: "https://www.youracclaim.com/badges/985f782c-0819-4a6e-9e2e-66812a552a05/personal_website"
+  url: "https://www.credly.com/badges/985f782c-0819-4a6e-9e2e-66812a552a05/personal_website"
   badge: "/assets/extras/microsoft/azure/badges/microsoft-certified-azure-devops-engineer-expert.png"
 
 - name: "Microsoft Certified: Azure Administrator Associate"
@@ -106,7 +117,7 @@
   date:
     issue: 14.06.2019
     expire: 14.06.2021
-  url: "https://www.youracclaim.com/badges/372b9774-1a69-433e-8421-4e8b32e96234/personal_website"
+  url: "https://www.credly.com/badges/372b9774-1a69-433e-8421-4e8b32e96234/personal_website"
   badge: "/assets/extras/microsoft/azure/badges/microsoft-certified-azure-administrator-associate.png"
 
 - name: "Red Hat Certified System Administrator (RHCSA)"
