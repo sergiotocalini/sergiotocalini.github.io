@@ -83,8 +83,8 @@
     - "Professional Cloud Architect"
   date:
     issue: 14.10.2019
-    expire: 14.10.2021
-  url: "https://www.credential.net/ypumx28o"
+    expire: 19.01.2024
+  url: "https://www.credential.net/04f8fce3-6be5-4e70-a353-cf22983dffd3"
   badge: "/assets/extras/google/gcp/badges/google-certified-professional-cloud-architect.png"
 
 - name: "Google Cloud Certified Associate Cloud Engineer"
@@ -95,7 +95,7 @@
   date:
     issue: 14.09.2019
     expire: 14.09.2021
-  url: "https://www.credential.net/48aldh6r"
+  url: "https://www.credential.net/f1b3e74a-c817-4c89-a3b7-fafe5153f559"
   badge: "/assets/extras/google/gcp/badges/google-certified-associate-cloud-engineer.png"
 
 - name: "Microsoft Certified: Azure DevOps Engineer Expert"
