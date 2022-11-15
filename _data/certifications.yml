@@ -1,3 +1,14 @@
+- name: "Microsoft Certified: Cybersecurity Architect Exper"
+  provider: "Microsoft"
+  id: "I455-6909"
+  exams:
+    - "SC-100"
+  date:
+    issue: 20.10.2022
+    expire: 20.10.2023
+  url: "https://www.credly.com/badges/4fc2935c-633c-4ee5-af35-31c2b7f9e191/personal_website"
+  badge: "/assets/extras/microsoft/azure/badges/microsoft-certified-cybersecurity-architect-expert.png"
+
 - name: "CKS: Certified Kubernetes Security Specialist"
   provider: "The Linux Foundation"
   id: "LF3e2l415zae"
