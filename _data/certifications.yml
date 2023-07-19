@@ -1,4 +1,15 @@
-- name: "Microsoft Certified: Cybersecurity Architect Exper"
+- name: "ITIL® Foundation Certificate in IT Service Management"
+  provider: "AXELOS"
+  id: "GR671534718ST"
+  exams:
+    - "ITIL 4 ® Foundation"
+  date:
+    issue: 27.06.2023
+    expire: 28.06.2026
+  url: "https://www.credly.com/badges/ba0036be-f5d2-4d31-b40f-c272406d2daa/personal_website"
+  badge: "/assets/extras/axelos/badges/itil-4-foundation.png"
+
+- name: "Microsoft Certified: Cybersecurity Architect Expert"
   provider: "Microsoft"
   id: "I455-6909"
   exams:
