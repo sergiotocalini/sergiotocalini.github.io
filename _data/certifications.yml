@@ -1,3 +1,14 @@
+- name: "FinOps Certified Practitioner"
+  provider: "FinOps Foundation"
+  id: "em5p2p2q8ra3"
+  exams:
+    - "FinOps Certified Practitioner Certification"
+  date:
+    issue: 02.10.2023
+    expire: 02.10.2025
+  url: "https://www.credly.com/badges/e2ce3c49-54b1-4e95-baae-1629f4046351/personal_website"
+  badge: "/assets/extras/finops-foundation/badges/finops-certified-practitioner.png"
+
 - name: "ITIL® Foundation Certificate in IT Service Management"
   provider: "AXELOS"
   id: "GR671534718ST"
@@ -29,7 +40,7 @@
     issue: 24.03.2022
     expire: 24.03.2024
   url: "https://www.credly.com/badges/c294328e-2266-412a-aa2f-54c805fbaba8?source=personal_website"
-  badge: "/assets/extras/linuxfoundation/kubernetes/badges/certified-kubernetes-security-specialist.png"
+  badge: "/assets/extras/linux-foundation/kubernetes/badges/certified-kubernetes-security-specialist.png"
 
 - name: "AWS Certified DevOps Engineer – Professional"
   provider: "Amazon Web Services (AWS)"
@@ -62,7 +73,7 @@
     issue: 16.08.2020
     expire: 16.08.2023
   url: "https://www.credly.com/badges/21dd458a-c431-4218-8fe7-045af0b6bb4b/personal_website"
-  badge: "/assets/extras/linuxfoundation/kubernetes/badges/certified-kubernetes-administrator.png"
+  badge: "/assets/extras/linux-foundation/kubernetes/badges/certified-kubernetes-administrator.png"
 
 - name: "Microsoft Certified: Azure IoT Developer Specialty"
   provider: "Microsoft"
