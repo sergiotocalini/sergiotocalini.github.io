@@ -23,9 +23,7 @@ tag:
 5. [How do we achieve a DevSecOps environment?](#how-do-we-achieve-a-devsecops-environment)
 6. [Lesson Learned](#lesson-learned)
 
-{:.center}
-![[CS-devops_expo_2019-Zurich.png]]
-
+{:.center}[![Credit Suisse - DevOps Expo 2019 (Zurich, Switzerland)][banner]][gallery]{:target="_blank"}
 ---
 # Introduction
 
