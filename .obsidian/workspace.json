@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "c30360f5b6c768e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "96cd92e296a871f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "532d7aa92c75df0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2019-06-05-credit-suisse-devops-expo-2019-zurich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a68622dc7be2fe6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d31533925e178729",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83531e2c9cf0a9b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d220c77dd280fbe5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "170a8008b33d1f65",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d29ce6751eeaa686",
+    "type": "split",
+    "children": [
+      {
+        "id": "889031e5acea1ed0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "246765d234ad8b5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2019-06-05-credit-suisse-devops-expo-2019-zurich.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "060a4d428b0f5756",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2019-06-05-credit-suisse-devops-expo-2019-zurich.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19843923af1b75df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "062d8debb5a0d3b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2019-06-05-credit-suisse-devops-expo-2019-zurich.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "532d7aa92c75df0a",
+  "lastOpenFiles": [
+    "_posts/2019-10-28-certification-gcp-pca.md",
+    "_posts/2019-12-14-certification-azure-az301.md",
+    "_posts/2019-10-14-certification-azure-az300.md",
+    "_posts/2019-10-02-aws-summit-switzerland-2019.md",
+    "_posts/2019-09-19-certification-gcp-ace.md",
+    "_posts/2019-09-11-anthos-day-zurich-2019.md",
+    "_posts/2019-08-27-certification-azure-az400.md",
+    "_posts/2019-06-12-certification-azure-az103.md",
+    "_posts/2019-06-05-credit-suisse-devops-expo-2019-zurich.md",
+    "banner.md",
+    "assets/events/CS-devops_expo_2019-Zurich.png",
+    "_drafts/2019-04-15-interactive-brokers.md",
+    "_drafts/2018-02-01-zabbix-high-availability.md",
+    "_drafts/2020-05-02-certification-azure-az220.md",
+    "_drafts/2020-02-12-certification-azure-az500.md",
+    "README.md"
+  ]
+}
