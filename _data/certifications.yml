@@ -1,3 +1,22 @@
+- name: "AWS Certified AI Practitioner Early Adopter"
+  provider: "Amazon Web Services (AWS)"
+  exams: []
+  date:
+    issue: 03.01.2025
+  url: "https://www.credly.com/badges/c239e1c6-df23-4a6d-9a1c-97464e8a43e7/personal_website"
+  badge: "/assets/extras/amazon/aws/badges/aws-certified-ai-practitioner-early-adopter.png"
+
+- name: "AWS Certified AI Practitioner"
+  provider: "Amazon Web Services (AWS)"
+  id: "c203fa7fb32b4106a44b36eb7a9556a1"
+  exams:
+    - "AIF-C01"
+  date:
+    issue: 03.01.2025
+    expire: 03.01.2028
+  url: "https://www.credly.com/badges/1e603518-17fe-4554-a1fe-1bb71fb270b3/personal_website"
+  badge: "/assets/extras/amazon/aws/badges/aws-certified-ai-practitioner.png"
+
 - name: "FinOps Certified Practitioner"
   provider: "FinOps Foundation"
   id: "em5p2p2q8ra3"
